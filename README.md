@@ -18,6 +18,7 @@ It generates an excel spreadsheet with folding measurements.
  B&W image and it will generate the perfectly adapted plan !
 
 <img src="screenshot.png" title="screenshot of app" alt="screenshot of app">
+
 ---
 <p align="center">Made with :heart: in Grenoble !</p>
 
